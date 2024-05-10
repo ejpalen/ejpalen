@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 <br/>
 
-- 🔭 I’m currently working on [FAMTERz](https://github.com/ejpalen/famterz-website)
+- 🔭 I’m currently working on [Nexus Fintech Sales]([https://github.com/ejpalen/famterz-website](https://github.com/ejpalen/nexus-fintech-sales))
 
 - 🌱 I’m currently learning **React, Android, GSAP**
 
